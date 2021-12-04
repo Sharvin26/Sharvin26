@@ -19,7 +19,7 @@
 
 📫 How to reach me:
 * :envelope: Email me at sharvinshah51@gmail.com / sharvin@mtechzilla.com
-* :speech_balloon: Dm on twitter id @sharvin26
+* :speech_balloon: Dm on twitter id @sharvinshah26
 
 <!--
 **Sharvin26/Sharvin26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
