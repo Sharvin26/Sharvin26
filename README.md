@@ -1,11 +1,25 @@
 ### Hi there 👋
 
-🔭 I’m currently working on building a Company Named MTechZilla.
+:office: I’m currently working as a CEO and CTO in company named [MTechZilla](https://mtechzilla.com).
+
+💬 You can ask me about:
+  * JavaScript
+  * TypeScript
+  * React
+  * NextJS
+  * ExpressJS
+  * Serverless
+  * AWS
+  * Firebase
+  * Supabase
+
+🌱 I’m currently learning blockchain and web3. 
+
+🤔 If want to collaborate, you can reach out to me.
 
 📫 How to reach me:
-  
-  Email: sharvinshah51@gmail.com
-  Twitter: @sharvin26
+* :envelope: Email me at sharvinshah51@gmail.com / sharvin@mtechzilla.com
+* :speech_balloon: Dm on twitter id @sharvin26
 
 <!--
 **Sharvin26/Sharvin26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
