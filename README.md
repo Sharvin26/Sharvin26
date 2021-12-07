@@ -21,6 +21,8 @@
 * :envelope: Email me at sharvinshah51@gmail.com / sharvin@mtechzilla.com
 * :speech_balloon: Dm on twitter id @sharvinshah26
 
+:earth_asia: Go through my [portfolio](https://sharvinshah.me) to know more about me
+
 <!--
 **Sharvin26/Sharvin26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
