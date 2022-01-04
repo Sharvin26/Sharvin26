@@ -2,6 +2,9 @@
 
 :office: I’m currently working as a CEO and CTO in company named [MTechZilla](https://mtechzilla.com).
 
+[![Sharvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharvin26&show_icons=true&layout=compact&theme=dark)](https://github.com/Sharvin26)
+
+
 💬 You can ask me about:
   * JavaScript
   * TypeScript
