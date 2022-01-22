@@ -16,8 +16,6 @@
   * Firebase
   * Supabase
 
-🌱 I’m currently learning blockchain and web3. 
-
 🤔 If want to collaborate, you can reach out to me.
 
 📫 How to reach me:
