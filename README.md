@@ -10,11 +10,13 @@
   * TypeScript
   * React
   * NextJS
+  * StoryBook
   * ExpressJS
   * Serverless
   * AWS
   * Firebase
   * Supabase
+  * Stripe
 
 🤔 If want to collaborate, you can reach out to me.
 
